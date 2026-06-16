@@ -1,0 +1,14 @@
+features,weights
+type_DEBIT,0.0
+type_CASH_IN,0.0
+step,0.007010907
+oldbalanceDest,0.007281438
+amount,0.013142613
+movDest,0.021136045
+oldbalanceOrg,0.025109027
+type_CASH_OUT,0.02638376
+type_PAYMENT,0.037976503
+newbalanceDest,0.03878619
+newbalanceOrig,0.058344774
+type_TRANSFER,0.081719
+movOrig,0.68310964
